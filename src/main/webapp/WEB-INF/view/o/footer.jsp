@@ -1,8 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="UTF-8"%>
 
-		<div  class="w3agile footer">
-		<!--一条渐变的横线-->
+		<!--<div  class="w3agile footer">
 		<hr />
 				
 			<div  class="col-md-3 w3agile_footer_grid">
@@ -13,7 +12,7 @@
 			<p align="center" >关注公众号获取更多入户信息</p>
 			<p align="center" ><img src="${pageContext.request.contextPath}/img/qrcode/gongzhonghao.jpg" alt="" height="76" class="img-services " /> 
 			</p>
-		</div>
+		</div>-->
 		
 		<div class="w3agile agileinfo_copy_right">
 			<div class="agileinfo_copy_right_left">

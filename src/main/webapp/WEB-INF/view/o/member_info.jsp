@@ -168,9 +168,11 @@
  </div>
   <!--底部样式-->
 <div class="footer">
+	<!--
   <div class="Copyright">
    Copyright © 2018 All rights reserved 捷通   | 粤ICP备17111325号-2
   </div>
+ -->
 </div>
 </div>
  <!--固定栏目样式-->

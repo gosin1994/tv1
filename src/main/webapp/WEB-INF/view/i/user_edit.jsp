@@ -80,7 +80,7 @@
 										<label class="control-label" for="focusedInput"><span style="color:red">*</span> 电话：</label>
 										<div class="controls">
 											<printer><tr>
-											<td><input name="phone" class="input-xlarge focused" id="phone" maxlength="20" type="text"  value="${editUser.phone}"></td>
+											<td><input name="phone" class="input-xlarge focused" id="phone" maxlength="11" type="text"  value="${editUser.phone}"></td>
 											<td align="left">&nbsp;<span id="nameMsg" style="color:red"></span></td>
 											</tr></printer>
 										</div>

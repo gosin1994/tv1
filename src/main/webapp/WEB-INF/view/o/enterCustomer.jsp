@@ -1,3 +1,8 @@
+<!--
+	author：龚鑫
+	  date：2018-08-17 15:23  
+	 email：gx1008666@163.com
+-->
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
